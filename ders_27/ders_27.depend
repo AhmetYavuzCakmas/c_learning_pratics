@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1749468925 source:c:\users\user\desktop\c dersleri\ders_27\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
